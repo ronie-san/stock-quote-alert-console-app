@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleAppTests/StockQuoteAlertConsoleAppTests.csproj": {}
+  },
+  "projects": {
+    "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp.csproj",
+        "projectName": "StockQuoteAlertConsoleApp",
+        "projectPath": "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp.csproj",
+        "packagesPath": "/Users/ronie.mota/.nuget/packages/",
+        "outputPath": "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ronie.mota/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.0-preview.7.24405.7, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleAppTests/StockQuoteAlertConsoleAppTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleAppTests/StockQuoteAlertConsoleAppTests.csproj",
+        "projectName": "StockQuoteAlertConsoleAppTests",
+        "projectPath": "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleAppTests/StockQuoteAlertConsoleAppTests.csproj",
+        "packagesPath": "/Users/ronie.mota/.nuget/packages/",
+        "outputPath": "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleAppTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ronie.mota/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp.csproj": {
+                "projectPath": "/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[5.0.0-preview0011, )"
+            },
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[5.0.0-preview0011, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

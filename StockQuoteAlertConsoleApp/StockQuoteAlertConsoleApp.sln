@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockQuoteAlertConsoleApp", "StockQuoteAlertConsoleApp\StockQuoteAlertConsoleApp.csproj", "{0C3CDDA7-0603-4E31-A301-824F7E8F0DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockQuoteAlertConsoleAppTests", "StockQuoteAlertConsoleAppTests\StockQuoteAlertConsoleAppTests.csproj", "{53C41371-9C75-4DE4-AC69-26973E718CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C3CDDA7-0603-4E31-A301-824F7E8F0DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3CDDA7-0603-4E31-A301-824F7E8F0DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3CDDA7-0603-4E31-A301-824F7E8F0DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3CDDA7-0603-4E31-A301-824F7E8F0DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C41371-9C75-4DE4-AC69-26973E718CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C41371-9C75-4DE4-AC69-26973E718CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C41371-9C75-4DE4-AC69-26973E718CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C41371-9C75-4DE4-AC69-26973E718CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

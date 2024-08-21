@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/ronie.mota/Library/Caches/JetBrains/Rider2024.1/resharper-host/temp/Rider/vAny/CoverageData/_StockQuoteAlertConsoleApp.1323344844/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2c9ee018_002D226d_002D43a1_002D90ce_002D4cf46fce19d7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestIfThrowErrorWhenInvalidArgsLength" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleAppTests" Presentation="&amp;lt;StockQuoteAlertConsoleAppTests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d35ec4f2_002D5747_002D4370_002D895e_002D1f5d3487adc8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MonitoringControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/ronie.mota/Documents/repository/personal/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleApp/StockQuoteAlertConsoleAppTests" Presentation="&amp;lt;StockQuoteAlertConsoleAppTests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,5 @@
+using StockQuoteAlertConsoleApp.Constants;
+
+namespace StockQuoteAlertConsoleApp.exceptions;
+
+public class InvalidPriceRangeException() : InvalidArgsException(ExceptionMessageConstants.INVALID_PRICE_ARGS_RANGE);
